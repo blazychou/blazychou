@@ -1,6 +1,6 @@
 hello
 <br/>
-just your average github repo, for whatever i make in my free time
+just your average github for whatever i make in my free time
 <br/>
 <br/>
 
